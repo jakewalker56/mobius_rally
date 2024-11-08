@@ -1,0 +1,9 @@
+{
+	"width" : 5,
+	"height" : 5,
+	"origin_x" : 1,
+	"origin_y" : 1,
+	"target_x" : 2,
+	"target_y" : 4,
+	"steps" : 3
+}
